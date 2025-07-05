@@ -5,8 +5,8 @@ A minimalist yet functional **Flashlight App** built using **Kotlin** and **Jetp
 
 #### Download on:
 <a href = https://github.com/Govind-Sankar/Flashlight-App/releases>
-<img src="images/badge_github.png" height="80">
-</a>
+<img src="images/badge_github.png" style="height: 100px;">
+</a> 
 
 ## 📱 Features
 
@@ -16,7 +16,7 @@ A minimalist yet functional **Flashlight App** built using **Kotlin** and **Jetp
 
 ## 🖼️ Screenshots
 
-<img src="images/Off_Screen.png" width="150"/> <img src="images/On-Screen.png" width="150"/> 
+<img src="images/Off_Screen.png" width="200"/> <img src="images/On-Screen.png" width="200"/> 
 
 ## 📦 How to Install
 
