@@ -8,33 +8,31 @@ A minimalist yet functional **Flashlight App** built using **Kotlin** and **Jetp
 <img src="images/badge_github.png" style="height: 100px;">
 </a> 
 
-## 📱 Features
+## Features
 
 - Turn flashlight On or Off
 - Modern minimalist UI using Jetpack Compose
 - Simple and clean design
 
-## 🖼️ Screenshots
+## Screenshots
 
 <img src="images/Flashlight_MockUp.png" width="800"/>
-<img src="images/Off_Screen.png" width="200"/><img src="images/On-Screen.png" width="200"/>
+<!-- <img src="images/Off_Screen.png" width="200"/><img src="images/On-Screen.png" width="200"/> -->
 
-## 📦 How to Install
+## How to Install
 
 1. Download the latest APK from the [Releases](https://github.com/Govind-Sankar/Flashlight-App/releases) section.
 2. Transfer the APK to your Android device.
 3. Enable installation from unknown sources.
 4. Open the APK and install it.
 
-## 🚀 Getting Started (for developers)
+## Getting Started
 
 Clone this repo:
    ```bash
    git clone https://github.com/Govind-Sankar/Flashlight-App.git
    ```
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use, modify, and distribute it. See the LICENSE file for details.
