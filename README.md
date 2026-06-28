@@ -16,7 +16,8 @@ A minimalist yet functional **Flashlight App** built using **Kotlin** and **Jetp
 
 ## 🖼️ Screenshots
 
-<img src="images/Off_Screen.png" width="200"/> <img src="images/On-Screen.png" width="200"/> 
+<img src="images/Flashlight_MockUp.png" width="800"/>
+<img src="images/Off_Screen.png" width="200"/><img src="images/On-Screen.png" width="200"/>
 
 ## 📦 How to Install
 
