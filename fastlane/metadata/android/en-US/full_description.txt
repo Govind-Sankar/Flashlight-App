@@ -1,0 +1,8 @@
+Flashlight is a simple Android utility focused on doing one thing well - turning your device's flashlight on and off. It features a modern UI built with Jetpack Compose, smooth animations, and a distraction-free experience. The app is completely free and open source, contains no advertisements, no analytics, and does not collect or transmit any user data. It only uses the camera flash hardware required to control the flashlight.
+
+Features include:
+- Minimal, modern interface
+- One-tap flashlight toggle
+- Smooth animations
+- No ads or tracking
+- Open source (MIT License)
